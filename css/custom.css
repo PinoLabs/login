@@ -1,4 +1,46 @@
-.centro{
+body{
+    background-color: beige;
+}
+
+
+.contenedor{
     text-align: center;
+}
+
+/* Formularios */
+.form-login{
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+}
+#log{
+    display: block;
+}
+
+.form-reg{
+    width: 50%;
     margin: auto;
 }
+#reg{
+    display: none;
+}
+.espacio{
+    margin-top: 5%;
+}
+.espacio1{
+}
+.amp{
+    padding-bottom:15%;
+}
+.form-perfil{
+    text-align: center;
+    margin-top: 5%;
+}
+#perfil{
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
+
+  }
+  
