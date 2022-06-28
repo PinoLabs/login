@@ -1,2 +1,3 @@
-# pinolabs-login.github.io
-login-proyect
+# pinolabs.github.io/login
+Plataforma de inicio de secion y control de usuarios 
+!
